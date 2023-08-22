@@ -7,4 +7,4 @@
 - [PyFlat Youtube Downloader](https://github.com/PyFlat/YT-Downloader)
 - [Plant The Bomb](https://github.com/PyFlat/Plant-The-Bomb)
 - [Plant The Bomb - Map Builder](https://github.com/PyFlat/PTB-Map-Builder)
-- [Plant The Bomb Script (Debugger)](https://github.com/PyFlat/ptbscript_debugger)
+- [Plant The Bomb Script (Debugger)](https://github.com/PyFlat/PTB-Script-Debugger)
