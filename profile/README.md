@@ -8,4 +8,3 @@
 - [Plant The Bomb](https://github.com/PyFlat/Plant-The-Bomb)
 - [Plant The Bomb - Map Builder](https://github.com/PyFlat/PTB-Map-Builder)
 - [Mastermind](https://github.com/PyFlat/Mastermind)
-- [Fortnite-Ranked-Tracker](https://github.com/PyFlat/Fortnite-Ranked-Tracker)
